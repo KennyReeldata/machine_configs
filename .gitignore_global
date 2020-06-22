@@ -1,0 +1,8 @@
+# IDEs
+#################
+*.idea
+.ycm_extra_conf.py
+*.swp
+.ropeproject
+.venv
+.python-version
