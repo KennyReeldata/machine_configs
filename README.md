@@ -12,11 +12,13 @@ Desktop apps to install
 Terminal apps
 - Vim
 - Git
+
 - Zsh
--- OhMyZsh
--- Prezto https://github.com/sorin-ionescu/prezto
--- Antigen
-- Fzf
+- OhMyZsh
+- Prezto https://github.com/sorin-ionescu/prezto
+- Antigen
+
+- Fzf https://github.com/junegunn/fzf
 - Tmux
 - Brew (If mac)
 - Stern
