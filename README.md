@@ -28,6 +28,7 @@ Terminal apps
 - Vimplug https://github.com/junegunn/vim-plug
 - Iterm (if Mac)
 - Pyenv https://github.com/pyenv/pyenv
+- Pyenv-virtualenv git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
 - Minikube (Optional)
 - Docker
 - Docker Compose
