@@ -21,6 +21,7 @@ Terminal apps
 - Antigen
 
 - Tmux
+- Node
 - Brew (If mac) / Linuxbrew
 - Stern
 - Kubectl
