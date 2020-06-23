@@ -12,15 +12,16 @@ Desktop apps to install
 Terminal apps
 - Vim
 - Git
+- Fzf https://github.com/junegunn/fzf
+- Git fuzzy
 
 - Zsh
 - OhMyZsh
 - Prezto https://github.com/sorin-ionescu/prezto
 - Antigen
 
-- Fzf https://github.com/junegunn/fzf
 - Tmux
-- Brew (If mac)
+- Brew (If mac) / Linuxbrew
 - Stern
 - Kubectl
 - Gcloud CLI https://cloud.google.com/sdk/docs/quickstart-macos
