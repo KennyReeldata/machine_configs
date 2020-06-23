@@ -33,3 +33,4 @@ Terminal apps
 - Docker
 - Docker Compose
 - Anaconda
+- Bliss dircolors https://github.com/joshjon/bliss-dircolors
