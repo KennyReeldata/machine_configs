@@ -24,6 +24,7 @@ Terminal apps
 - Node
 - Brew (If mac) / Linuxbrew
 - Stern
+- Kubectx
 - Kubectl
 - Gcloud CLI https://cloud.google.com/sdk/docs/quickstart-macos
 - Vimplug https://github.com/junegunn/vim-plug
@@ -34,4 +35,4 @@ Terminal apps
 - Docker
 - Docker Compose
 - Anaconda
-- Bliss dircolors https://github.com/joshjon/bliss-dircolors
+- Bliss dircolors https://github.com/joshjon/bliss-dircolors (If linux)
