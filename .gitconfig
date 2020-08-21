@@ -1,0 +1,13 @@
+[user]
+	name = kennpow
+	email = kennypower12@gmail.com
+[core]
+	editors = vim
+	excludesfile = /home/kenny/.gitignore_global
+    editor = vim
+[interactive]
+    diffFilter = delta --color-only
+[alias]
+	st = status -sb
+[push]
+	default = current
