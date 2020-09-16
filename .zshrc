@@ -1,5 +1,4 @@
 # If you come from bash you might have to change your $PATH.
-<<<<<<< HEAD
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
@@ -9,7 +8,6 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 source ~/.antigen.zsh
 antigen use oh-my-zsh
 
-=======
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 #######################
